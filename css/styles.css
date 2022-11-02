@@ -1,0 +1,15 @@
+.main-container{
+    min-height: 757px;
+}
+footer{
+    background-color: #0a55a0;
+    font-weight: bold;
+    color: #fff3cd;
+    text-align: center;
+    padding: 50px 0;
+}
+.btn-cadastro{
+    margin-top: 10px;
+    margin-left: 50%;
+    transform: translatex(-50%);
+}
